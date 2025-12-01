@@ -76,6 +76,7 @@ main > section:nth-of-type(2) > div:first-child {
 main > section:nth-of-type(2) > div:first-child > div:last-child {
   position: absolute;
   color: #ffffff;
+  
 
   /* background: rgba(255, 255, 255, 0.9);
   border: 1px solid #ffffff; */
